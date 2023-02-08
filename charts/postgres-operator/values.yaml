@@ -1,5 +1,5 @@
 image:
-  registry:  harbor.avilex.ru/zalan-proxy
+  registry: harbor.avilex.ru/zalan-proxy
   repository: acid/postgres-operator
   tag: v1.9.0
   pullPolicy: "IfNotPresent"
